@@ -12,3 +12,7 @@
     1. IDE (CodeBlocks)
     2. Language: C++
     3. Packages: OpenGL and Glut 
+    
+    
+GIF file of the project:
+   ![CGM Lab Project](https://user-images.githubusercontent.com/76619766/170770710-797f9288-bdb8-498f-9bce-1d751fc777d8.gif)
